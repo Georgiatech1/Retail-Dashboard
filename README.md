@@ -4,7 +4,7 @@ Project Overview
 
 **Title: Summarized Retail Dashboard**
 
-Scope: Retail dashboard visualizing the summary to provide an overall picture of the business's performance.
+**Scope: Retail dashboard visualizing the summary to provide an overall picture of the business's performance.**
 
 Data Sources: Microsoft Excel
 
@@ -12,7 +12,7 @@ Cleaning and Visualization Tools: Power Query and Power BI
 
 **Understanding the Information in the Data Source:**
 
-Dataset Overview:
+**Dataset Overview:**
 
 **Three Sheets:**
 Dim Tables
@@ -83,15 +83,13 @@ Note: Higher density of colors indicates higher value.
 Utilized a bar chart for sales and categories by chain due to long category names.
 Sorted by the largest categories and then by sales.
 
-Visual of Sales and Gross Profit by Category Across Time Using a Bubble Chart:
-
+**Visual of Sales and Gross Profit by Category Across Time Using a Bubble Chart:**
 Created a bubble chart with a play axis for financial quarters.
 Calculated gross profit percentage and formatted it into one decimal place.
 The gross profit represents the size of the bubble.
 X-axis had the gross profit percentage.
 
-Slicer for State Filtering:
-
+**Slicer for State Filtering:**
 I created a slicer to enable the dashboard to be filtered by state.
 
 **POWER BI PROJECT LINK:**
